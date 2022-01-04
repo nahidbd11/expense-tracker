@@ -1,0 +1,66 @@
+{
+  "data": [
+    {
+      "item": "gajor",
+      "date": "2022-01-03",
+      "price": "20",
+      "quantity": "0.5kg",
+      "id": 1
+    },
+    {
+      "item": "medicine",
+      "date": "2022-01-03",
+      "price": "140",
+      "quantity": "2 pata",
+      "id": 2
+    },
+    {
+      "item": "khejur er gur",
+      "date": "2022-01-03",
+      "price": "45",
+      "quantity": "1 ta",
+      "id": 3
+    },
+    {
+      "item": "piyaju",
+      "date": "2022-01-03",
+      "price": "10",
+      "quantity": "2 ta",
+      "id": 4
+    },
+    {
+      "item": "chanachur",
+      "date": "2022-01-03",
+      "price": "20",
+      "quantity": "1 packet",
+      "id": 5
+    },
+    {
+      "item": "salt",
+      "date": "2022-01-02",
+      "price": "20",
+      "quantity": "1 packet",
+      "id": 6
+    },
+    {
+      "item": "tejpata",
+      "date": "2022-01-02",
+      "price": "5",
+      "quantity": "1 packet",
+      "id": 7
+    },
+    {
+      "item": "tomato",
+      "date": "2022-01-02",
+      "price": "20",
+      "quantity": "0.5kg",
+      "id": 8
+    }
+  ],
+  "total": [
+    {
+      "budget": 5000,
+      "id": 1
+    }
+  ]
+}
